@@ -33,6 +33,13 @@ public class AppTest
      */
     public void testApp()
     {
+    		System.out.println("Testcase 1");
+        assertTrue( true );
+    }
+    
+    public void testApp2()
+    {
+    		System.out.println("Testcase 2");
         assertTrue( true );
     }
 }
