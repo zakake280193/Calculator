@@ -42,4 +42,10 @@ public class AppTest
     		System.out.println("Testcase 2");
         assertTrue( true );
     }
+    
+    public void testApp3()
+    {
+    		System.out.println("Testcase 2");
+        assertTrue( true );
+    }
 }
